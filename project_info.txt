@@ -1,0 +1,19 @@
+
+
+1.Create project
+2.Make Authintication:-
+	1.composer require laravel/ui
+	2.php artisan ui bootstrap --auth
+3.Database Connectvity
+4.Run migration
+5.npm install
+6.npm run watch
+7.php artisan serve
+
+8.Create Model,Controller with ressorchful :-
+	php artisan make:model Country -mcr
+	php artisan make:model States -mcr
+	php artisan make:model Cities-mcr
+	php artisan make:model Departments -mcr
+	php artisan make:model Employees-mcr
+9.Go to 
